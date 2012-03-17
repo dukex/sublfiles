@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".bundle",
+		".pygments-cache",
+		".sass-cache"
+	],
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+	],
+	"remember_open_files": false,
+	"show_tab_close_buttons": false
+}

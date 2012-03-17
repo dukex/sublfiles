@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": 1331996726,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"CoffeeScript",
+		"Jasmine",
+		"Markdown Preview",
+		"Package Control",
+		"Rails Related Files",
+		"sublime-jslint",
+		"TrailingSpaces",
+		"Whitespace Corrector"
+	]
+}
